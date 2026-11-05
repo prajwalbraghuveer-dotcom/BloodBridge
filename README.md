@@ -145,9 +145,6 @@ The application factory is exposed by `run.py`. The project expects a configured
 - GitHub Actions CI
 - Production monitoring and logging
 
-## Author
 
-**Nikhil Kumar PE**  
-Computer Science Engineering · Python · Backend Development · AI/ML
 
 [GitHub](https://github.com/nikhilkumarpe-beep)
